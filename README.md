@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ragini Yadav
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Msc computer science.
-- 💞️ I’m looking to collaborate on, not decided 
-- 📫 How to reach me, trying to reach as much as you can ...
+- 💞️ I’m looking to collaborate on, not decided .
+- 📫 I'm busy learner...
 
 <!---
 RaagLibr/RaagLibr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
