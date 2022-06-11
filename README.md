@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ragini Yadav
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Msc computer science.
+- 🌱 I completed PG in Msc CS.
 - 💞️ I’m looking to collaborate on, not decided .
 - 📫 I'm busy learner...
 
